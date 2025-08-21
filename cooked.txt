@@ -1,0 +1,14 @@
+you have masave skill issue
+your apps:
+taskmgr.exe
+explorer.exe
+regedit.exe
+write.exe
+iexpress.exe
+mblctr.exe
+manage-bde.exe
+manage-bde.wsf
+makecab.exe
+ndadmin.exe
+notepad.exe
+now time to open them
